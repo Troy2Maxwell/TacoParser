@@ -1,0 +1,12 @@
+C:\Users\Troy Maxwell\source\repos\TacoParser\LoggingKata\bin\Debug\netcoreapp2.0\TacoBell-US-AL.csv
+C:\Users\Troy Maxwell\source\repos\TacoParser\LoggingKata\bin\Debug\netcoreapp2.0\LoggingKata.deps.json
+C:\Users\Troy Maxwell\source\repos\TacoParser\LoggingKata\bin\Debug\netcoreapp2.0\LoggingKata.runtimeconfig.json
+C:\Users\Troy Maxwell\source\repos\TacoParser\LoggingKata\bin\Debug\netcoreapp2.0\LoggingKata.runtimeconfig.dev.json
+C:\Users\Troy Maxwell\source\repos\TacoParser\LoggingKata\bin\Debug\netcoreapp2.0\LoggingKata.dll
+C:\Users\Troy Maxwell\source\repos\TacoParser\LoggingKata\bin\Debug\netcoreapp2.0\LoggingKata.pdb
+C:\Users\Troy Maxwell\source\repos\TacoParser\LoggingKata\obj\Debug\netcoreapp2.0\LoggingKata.csprojAssemblyReference.cache
+C:\Users\Troy Maxwell\source\repos\TacoParser\LoggingKata\obj\Debug\netcoreapp2.0\LoggingKata.csproj.CoreCompileInputs.cache
+C:\Users\Troy Maxwell\source\repos\TacoParser\LoggingKata\obj\Debug\netcoreapp2.0\LoggingKata.AssemblyInfoInputs.cache
+C:\Users\Troy Maxwell\source\repos\TacoParser\LoggingKata\obj\Debug\netcoreapp2.0\LoggingKata.AssemblyInfo.cs
+C:\Users\Troy Maxwell\source\repos\TacoParser\LoggingKata\obj\Debug\netcoreapp2.0\LoggingKata.dll
+C:\Users\Troy Maxwell\source\repos\TacoParser\LoggingKata\obj\Debug\netcoreapp2.0\LoggingKata.pdb
